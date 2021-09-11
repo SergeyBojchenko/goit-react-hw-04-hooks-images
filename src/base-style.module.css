@@ -1,0 +1,32 @@
+body {
+  max-width: 1600px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.17;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+img {
+  display: block;
+  width: auto;
+  height: auto;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding-inline-start: 0px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+}
